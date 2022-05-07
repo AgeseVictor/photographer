@@ -328,7 +328,7 @@ height: 380px;
 .imgplacer5{
     width: 313px;
     height: 210px;
-    background:url(./Asset/image8.jpg) ;
+    background:url(./Asset/reinhart-julian-WxM465oM4j4-unsplash.jpg) ;
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -405,8 +405,8 @@ height: 380px;
 .imgplacer101{
     
 
-    width: 313px;
-    height: 300px;
+    width: 263px;
+    height: 250px;
     background:url(./Asset/image15.jpg) ;
     background-size: cover;
     background-position: top;
@@ -418,9 +418,9 @@ height: 380px;
 .imgplacer102{
     
 
-    width: 313px;
-    height: 300px;
-    background:url(./Asset/image12.jpg) ;
+    width: 263px;
+    height: 250px;
+    background:url(./Asset/leilani-angel-K84vnnzxmTQ-unsplash.jpg) ;
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -432,8 +432,8 @@ height: 380px;
 .imgplacer103{
     
 
-    width: 313px;
-    height: 300px;
+    width: 263px;
+    height: 250px;
     background:url(./Asset/image13.jpg) ;
     background-size: cover;
     background-position: top;
@@ -478,4 +478,113 @@ margin-left: 10px;
     text-align: left;
 margin-left: 15px;
 /* height: 380px; */
+}
+.imgplacer104{
+    
+
+    width: 263px;
+    height: 250px;
+    background:url(./Asset/portfolio\ new.jpg\ .jpg) ;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    /* margin-left: 30px; */
+    /* float: right; */
+}
+
+.imgplacer105{
+    
+
+    width: 263px;
+    height: 250px;
+    background:url(./Asset/chris-lynch-Qruwi3Ur3Ak-unsplash.jpg) ;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    /* margin-left: 30px; */
+    /* float: right; */
+}
+.art2 h4{
+    margin-top: 40px;
+}
+#split{
+    margin-top: 30px;
+}
+.number{
+    /* display: flex; */
+    text-align: center;
+}
+.first33{
+    background-color: #fcfcfc;
+}
+.lastman{
+    display: flex;
+    margin-left: 20px;
+}
+.picholder1{
+
+    
+
+    width: 263px;
+    height: 250px;
+    background:url(./Asset/image18.jpg) ;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    /* border-radius: 50%; */
+}
+.picholder2{
+
+    
+
+    width: 263px;
+    height: 250px;
+    background:url(./Asset/image14.jpg) ;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    /* border-radius: 50%; */
+    margin-left: 20px;
+
+    
+    
+}
+.picholder3{
+
+    
+
+    width: 263px;
+    height: 250px;
+    background:url(./Asset/image19.jpg) ;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    /* border-radius: 50%; */
+    margin-left: 20px;
+}
+.content5{
+    margin-top: -150px;
+}
+#updateme{
+    padding: 10px 25px;
+    color: black;
+    border: 2px black solid;
+    border-radius: 5rem;
+    font-family: poppins;
+    font-size: 10px;
+    font-weight: bold;
+
+}
+#footer{
+    background-color: #d8d6d6;
+    height: 100px;
+}
+.containlast{
+    padding: 0px 250px 0px 250px;
+}
+.LASTER A{
+    color: black;
+    line-height: 70px;
 }
