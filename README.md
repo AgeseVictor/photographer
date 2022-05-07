@@ -1,2 +1,1 @@
 # photographer
-okay
